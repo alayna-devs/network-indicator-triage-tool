@@ -1,0 +1,7 @@
+IP Address,API Status,Country,City,Zip Code,ISP,Organization
+1.1.1.1,success,Australia,South Brisbane,4101,"Cloudflare, Inc",APNIC and Cloudflare DNS Resolver project
+
+8.8.8.8,success,United States,Ashburn,20149,Google LLC,Google Public DNS
+
+9.9.9.9,success,United States,Berkeley,94709,Quad9,Quad9
+
